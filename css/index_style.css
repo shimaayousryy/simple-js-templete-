@@ -1,0 +1,65 @@
+
+.addData{
+  background-image: url("../images/work-5.jpg");
+  background-size: cover;
+  width: 100%;
+}
+
+
+.addItemList {
+    background-color: #e9ecef;
+}
+
+
+
+.heading h5{
+    font-size:14px;
+    color: #787878;
+
+}
+
+li button{
+    position: absolute;
+    top:0;
+    right: 0;
+}
+
+.hustlin h2{
+ font-size:100px;
+ line-height:300px;
+
+}
+
+.countTitle h2{
+    font-size: 60px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+
+.count{
+    width: 50%;
+    height: 100%;
+    border:2px solid #fff;
+    border-radius: 50%;
+    padding: 15px;
+    margin:auto
+}
+.count span{
+    font-size:13px;
+}
+
+
+.rgb h2 {
+    font-size: 500px;
+    font-family:  'Source Sans Pro', sans-serif;
+    text-shadow :-25px -15px 1px #fff;
+  
+}
+
+
+
+.form-sec{
+    background-image: url("../images/work-6.jpg");
+    background-size: cover;
+}
